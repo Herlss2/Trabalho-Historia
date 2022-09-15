@@ -23,11 +23,11 @@ start.addEventListener('click', () => {
     controls_text.innerText = `Iniciando..`
 
     setTimeout(() => {
-        tv_content.style.backgroundImage = "url('assets/tv_static.gif')";
+        tv_content.style.backgroundImage = "url('Assets/tv_static.gif')";
     }, 500)
 
     setTimeout(() => {
-        tv_content.style.backgroundImage = "url('assets/tv_transition.gif')";
+        tv_content.style.backgroundImage = "url('Assets/tv_transition.gif')";
     }, 2000)
 
     setTimeout(() => {
