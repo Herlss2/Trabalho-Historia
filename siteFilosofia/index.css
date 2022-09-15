@@ -255,7 +255,7 @@ button:hover:after {
   height: 500px;
   width: 800px;
   background-color: white;
-  background-image: url(assets/city_park.jpg);
+  background-image: url(Assets/city_park.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
